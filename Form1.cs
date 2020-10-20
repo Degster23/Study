@@ -19,31 +19,31 @@ namespace Gde_3
 
         public int proverka(string a)
         {
-            bool p = Int32.TryParse(a, out int result);
+            int schet = 0;
+            bool p = double.TryParse(a, out double result);
             if (p==true)
             {
-                int schet = 0;
-                for (int i=0; i<5; i++)
+                for (int i=0; i<a.Length; i++)
                 {
-                    double res = result % 10;
+                    int res = result % 10;
+                    MessageBox.Show(res.ToString());
                     if (res==3)
                     {
                         schet++;
                     }
-
-                    MessageBox.Show(res.ToString());
+                    result = result / 10;
                 }
             }
             else
             {
                 MessageBox.Show("Не число!!!");
             }
-            return result;
+            return schet;
         }
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(proverka(textBox1.Text).ToString());
+            MessageBox.Show("Троек в числе: "+proverka(textBox1.Text).ToString());
         }
     }
 }
