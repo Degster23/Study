@@ -23,16 +23,25 @@ namespace Gde_3
             bool p = double.TryParse(a, out double result);
             if (p==true)
             {
-                for (int i=0; i<a.Length; i++)
+                //int i2 = 0;
+                double result2 = result;
+                while (result>0)
                 {
-                    int res = result % 10;
-                    MessageBox.Show(res.ToString());
-                    if (res==3)
+                    //MessageBox.Show(i2++.ToString());
+                    result2 = result;
+                    for (int i = 0; i < a.Length; i++)
                     {
-                        schet++;
+                        double res = result2 % 10;
+                        //MessageBox.Show(res.ToString());
+                        if (res == 3)
+                        {
+                            schet++;
+                        }
+                        result2 = result2 - res;
+                        result2 = result2 / 10;
                     }
-                    result = result / 10;
-                }
+                    result--;
+                }    
             }
             else
             {
