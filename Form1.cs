@@ -15,6 +15,7 @@ namespace Gde_3
         public Form1()
         {
             InitializeComponent();
+	    MessageBox.Show("");
         }
 
         public int proverka(string a)
