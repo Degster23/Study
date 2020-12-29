@@ -1,0 +1,10 @@
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojAssemblyReference.cache
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.Form1.resources
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.Properties.Resources.resources
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.GenerateResource.cache
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
