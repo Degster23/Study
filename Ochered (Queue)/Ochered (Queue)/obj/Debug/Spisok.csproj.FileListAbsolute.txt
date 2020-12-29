@@ -1,0 +1,10 @@
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\bin\Debug\Ochered (Queue).exe.config
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\bin\Debug\Ochered (Queue).exe
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\bin\Debug\Ochered (Queue).pdb
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\obj\Debug\Spisok.csprojAssemblyReference.cache
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\obj\Debug\Ochered__Queue_.Form1.resources
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\obj\Debug\Ochered__Queue_.Properties.Resources.resources
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\obj\Debug\Spisok.csproj.GenerateResource.cache
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\obj\Debug\Spisok.csproj.CoreCompileInputs.cache
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\obj\Debug\Ochered (Queue).exe
+I:\2020 (3 семестр)\Дейнеко Татьяна Александровна\Методы и средства обмена и преобразования данных\Двунаправленный список\Ochered (Queue)\Ochered (Queue)\obj\Debug\Ochered (Queue).pdb
